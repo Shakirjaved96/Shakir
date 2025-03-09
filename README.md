@@ -1,4 +1,4 @@
-## Hi there! 👋 I'm [Shakir-Javed]
+## Hi there! 👋 I'm Shakir-Javed
 
 ### 💻 About Me
 🚀 Passionate about Web Development, AI Chatbots & Open Source.  

@@ -1,9 +1,9 @@
-## Hi there! 👋 I'm [Your Name]
+## Hi there! 👋 I'm [Shakir-Javed]
 
 ### 💻 About Me
 🚀 Passionate about Web Development, AI Chatbots & Open Source.  
 🎯 Always learning and building cool projects.  
-🌱 Currently working on improving my skills in AI & TypeScript.
+🌱 Currently working on improving my skills in AI & Python.
 
 ---
 
